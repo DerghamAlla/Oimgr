@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/bgremove.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- SEO METADATA -->
+    <title>Free Background Remover - Offline AI Tool (WebGPU)</title>
+    <meta name="description" content="Remove image backgrounds instantly and securely in your browser. 100% Offline, 100% Free, Privacy-First, Unlimited HD Downloads. Supports JPG, PNG, WebP." />
+    <meta name="keywords" content="background remover, remove bg, free ai tool, offline background remover, webgpu ai, privacy friendly photo editor, transparent background maker" />
+    <meta name="author" content="Robert Tirtasentana" />
+
+    <!-- FONTS -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@500;600&display=swap" rel="stylesheet">
+
+    <!-- STRUCTURED DATA (JSON-LD) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "SoftwareApplication",
+      "name": "Free Background Remover",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "description": "Remove image backgrounds instantly and securely in your browser. 100% Offline, 100% Free, Privacy-First, Unlimited HD Downloads. Supports JPG, PNG, WebP.",
+      "featureList": "Offline Inference, WebGPU Support, HD Export, Multiple AI Models",
+      "author": {
+          "@type": "Person",
+          "name": "Robert Tirtasentana"
+      }
+    }
+    </script>
+
+    <!-- ANALYTICS -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-RR4J12WGSL"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-RR4J12WGSL');
+    </script>
+    <script type="module" crossorigin src="/assets/index-ClWwQAc6.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-nN7wV5I_.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
